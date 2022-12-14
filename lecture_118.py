@@ -1,6 +1,6 @@
 # in keyword and iterations in dictionary
 user_info={
-    'name' : 'Muskan',
+    'name' : 'Jasica',
     'age' : 24,
     'fav_colours' : ['red', 'orange'],
     'fav_fruits' : ['apple', 'kiwi'],
